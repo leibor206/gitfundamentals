@@ -11,14 +11,14 @@ list :
 > paragraph\
 > lkfs ljksfn lskjfn lkj\
 > lkjsfnvlskjf\
-> vlksjfd vsfv\
+> vlksjfd vsfv
 >> inner paragraph\
 >> j lfjk slkjflsjf\
 >>  sfdn sfgsf gsdfgsdfg\
 >> sdfgsdfgsdfgsdfg\
 >> end of p2\
 > sadf sdsadg sdg\
-> end of 1st p\
+> end of 1st p
 
 
 ## some code
