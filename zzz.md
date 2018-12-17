@@ -9,19 +9,25 @@ list :
 * item 3
 
 > paragraph
-lkfs ljksfn lskjfn lkj
+> lkfs ljksfn lskjfn lkj
 
-lkjsfnvlskjf
+> lkjsfnvlskjf
  
-vlksjfd vsfv
+> vlksjfd vsfv
 
 >> inner paragraph
 
-j lfjk slkjflsjf
+>> j lfjk slkjflsjf
 
- sfdn sfgsf gsdfgsdfg
+>>  sfdn sfgsf gsdfgsdfg
 
-sdfgsdfgsdfgsdfg
+>> sdfgsdfgsdfgsdfg
+
+>> end of p2
+
+> sadf sdsadg sdg
+
+> end of 1st p
 
 
 ## some code
