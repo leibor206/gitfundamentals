@@ -17,8 +17,8 @@ list :
 >>  sfdn sfgsf gsdfgsdfg  
 >> sdfgsdfgsdfgsdfg  
 >> end of p2  
-> sadf sdsadg sdg  
-> end of 1st p  
+sadf sdsadg sdg  
+end of 1st p  
 
 
 ## some code
