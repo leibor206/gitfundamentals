@@ -8,16 +8,16 @@ list :
 - item 2
 * item 3
 
-> paragraph\
-> lkfs ljksfn lskjfn lkj\
-> lkjsfnvlskjf\
+> paragraph
+> lkfs ljksfn lskjfn lkj
+> lkjsfnvlskjf
 > vlksjfd vsfv
->> inner paragraph\
->> j lfjk slkjflsjf\
->>  sfdn sfgsf gsdfgsdfg\
->> sdfgsdfgsdfgsdfg\
->> end of p2\
-> sadf sdsadg sdg\
+>> inner paragraph
+>> j lfjk slkjflsjf
+>>  sfdn sfgsf gsdfgsdfg
+>> sdfgsdfgsdfgsdfg
+>> end of p2
+> sadf sdsadg sdg
 > end of 1st p
 
 
