@@ -1,0 +1,500 @@
+  100  ls -l
+  101  cdd ..
+  102  ls -l
+  103  cd ..
+  104  ls -l
+  105  find .|grep conf
+  106  find .|grep -w conf
+  107  find .|grep i log4j
+  108  find .|grep -i log4j
+  109  ls -l
+  110  cd apache-spark/
+  111  find .|grep -i log4j
+  112  python
+  113  cd
+  114  cd -
+  115  ls -l
+  116  cd 2.3.2/
+  117  ls-l
+  118  ls -l
+  119  pip3 install pyspark
+  120  pip install --upgrade pip
+  121  python
+  122  python3
+  123  which spark-submit
+  124  cd /opt/
+  125  ls -l
+  126  brew 
+  127  brew  list
+  128  brew uninstall apache-spark
+  129  brew uninstall scala
+  130  brew uninstall sbt
+  131  brew  list
+  132  which spark-submit
+  133  ls -l
+  134  mkdir apache-spark
+  135  sudo mkdir apache-spark
+  136  cd apache-spark/
+  137  ls -l
+  138  cd ~/Downloads/
+  139  ls -ltr
+  140  sudo tar xvfz spark-2.4.0-bin-hadoop2.7.tar -C /opt/apache-spark/
+  141  cd -
+  142  ls -l
+  143  cd spark-2.4.0-bin-hadoop2.7/
+  144  ls -l
+  145  pwd
+  146  vim ~/.bashrc 
+  147  echo $SPARK_HOME
+  148  source .~/bashr
+  149  source ~/.bashrc 
+  150  echo $SPARK_HOME
+  151  ls -l /opt/apache-spark/spark-2.4.0-bin-hadoop2.7
+  152  ls -l /opt/apache-spark/spark-2.4.0-bin-hadoop2.7/bin/
+  153  cd
+  154  which spark-submit
+  155  Menlo, Monaco, 'Courier New', monospace
+  156  python /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  157  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  158  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution.py 
+  159  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  160  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  161  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  162  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  163  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  164  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  165  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  166  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  167  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  168  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  169  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  170  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  171  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  172  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  173  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  174  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  175  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  176  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  177  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  178  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  179  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  180  spark-submit /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  181  spark-submit rdd/nasaApacheWebLogs/UnionLogSolutions.py
+  182  spark-submit rdd/nasaApacheWebLogs/UnionLogSolutions.py
+  183  spark-submit rdd/airports/AirportsInUsaSolution.py 
+  184  ls
+  185  ls -l def splitComma(line: str):
+  186  ls -l commons
+  187  ls -l commons/Utils
+  188  ls -l commons/Utils.py 
+  189  cat commons/Utils.py 
+  190  spark-submit rdd/airports/AirportsInUsaSolution.py 
+  191  spark-submit rdd/airports/AirportsInUsaSolution.py 
+  192  spark-submit rdd/nasaApacheWebLogs/SameHostsProblem.py 
+  193  spark-submit rdd/nasaApacheWebLogs/SameHostsProblem.py 
+  194  spark-submit rdd/nasaApacheWebLogs/SameHostsProblem.py 
+  195  spark-submit rdd/nasaApacheWebLogs/SameHostsProblem.py 
+  196  spark-submit rdd/nasaApacheWebLogs/SameHostsProblem.py 
+  197  spark-submit rdd/nasaApacheWebLogs/SameHostsProblem.py 
+  198  spark-submit rdd/nasaApacheWebLogs/SameHostsSolution.py 
+  199  spark-submit rdd/nasaApacheWebLogs/SameHostsProblem.py 
+  200  spark-submit rdd/nasaApacheWebLogs/SameHostsProblem.py 
+  201  spark-submit rdd/nasaApacheWebLogs/SameHostsProblem.py 
+  202  spark-submit rdd/nasaApacheWebLogs/SameHostsProblem.py 
+  203  echo $SPARK_HOME
+  204  export SPARK_HOME=SPARK_HOME
+  205  export SPARK_HOME=/opt/apache-spark/spark-2.4.0-bin-hadoop2.7
+  206  ls $SPARK_HOME 
+  207  ls -l $SPARK_HOME/python
+  208  exit
+  209  cat /Users/leibor/Downloads/python-spark-tutorial/rdd/airports/AirportsInUsaSolution_2.py
+  210  cd Downloads/python-spark-tutorial/out/
+  211  ls -l
+  212  cd same.csv/
+  213  ls -l
+  214  python
+  215  python3
+  216  cd
+  217  pyspark
+  218  which pyspark
+  219  echo $SPARK_HOME
+  220  python3
+  221  ls -l $SPARK_HOME
+  222  ls -l /opt/apache-spark/spark-2.4.0-bin-hadoop2.7/README.md 
+  223  pwd
+  224  pwd
+  225  cd Downloads/
+  226  cp /opt/apache-spark/spark-2.4.0-bin-hadoop2.7/README.md .
+  227  pwd
+  228  grep q README.md 
+  229  grep z README.md 
+  230  grep a README.md 
+  231  grep a README.md |wc
+  232  grep b README.md |wc
+  233  python
+  234  /usr/bin/python /Users/leibor/Downloads/python-spark-tutorial/rdd/sumOfNumbers/SumOfNumbersSolution.py
+  235  ps -ef|grep vi
+  236  ps -ef|grep Badg
+  237  kill -9 31284
+  238  kill -9 31284
+  239  ps -ef|grep Badg
+  240  ps -ef|grep Badg
+  241  exit
+  242  /Users/leibor/Downloads/Markdown_1.0.1/Markdown.pl; exit
+  243  cd .ssh/
+  244  ls -l
+  245  ssh -T git@github
+  246  ssh -T git@github.com
+  247  less id_rsa.pub 
+  248  ssh-keygen -t rsa -b 4096 -c "leibor@gmail.com"
+  249  ssh-keygen -t rsa  -c "leibor@gmail.com"
+  250  ssh-keygen -t rsa -b 4096 -C "leibor@gmail.com"
+  251  ls -ltr
+  252  cat id_rsa_4_github.pub
+  253  ssh -T git@github.com
+  254  ssh -T git@github.com
+  255  ssh -T git@github.com
+  256  ssh -T git@github.com
+  257  ls -l
+  258  mv id_rsa ORIG_id_rsa
+  259  mv id_rsa.pub ORIG_id_rsa.pub 
+  260  ls -l
+  261  mv id_rsa_4_github id_rsa
+  262  mv id_rsa_4_github.pub id_rsa.pub 
+  263  cat id_rsa.pub 
+  264  ssh -T git@github.com
+  265  ls -l
+  266  perl
+  267  perl -v
+  268  cd 
+  269  cd Downloads/
+  270  ls -l
+  271  cd Markdown_1.0.1/
+  272  ls -l
+  273  cd
+  274  cd code/
+  275  ls -l
+  276  cd gitfundamentals/
+  277  ls -l
+  278  touch zzz.md
+  279  vim zzz.md 
+  280  git status
+  281  git add .
+  282  git status
+  283  git commit -m "add zzz"
+  284  git status
+  285  git push
+  286  git remote -r
+  287  git remote -v
+  288  vim zzz.md 
+  289  git status
+  290  git ad
+  291  git commit -m "add zzz"
+  292  git status
+  293  git status
+  294  git commit -m "add zzz"
+  295  git push
+  296  vim zzz.md 
+  297  git status
+  298  git add .
+  299  git status
+  300  git commit -m "add zzz"
+  301  git status
+  302  git push
+  303  vim zzz.md 
+  304  git status
+  305  git add .
+  306  git status
+  307  git commit -m "add zzz 1"
+  308  git status
+  309  git push
+  310  cat .git/config 
+  311  git config --global core.autocrlf input
+  312  cat .git/config 
+  313  grep crlf .git/config 
+  314  ls -l
+  315  grep -r -i crlf *
+  316  git status
+  317  vim zzz.md 
+  318  git status
+  319  git add zzz.md 
+  320  git status
+  321  git commit -m 'zzz new line'
+  322  git push
+  323  vim zzz.md 
+  324  git add zzz.md 
+  325  git push
+  326  git status
+  327  git commit -m 'zzz new line'
+  328  git config --global --list
+  329  git config --global 
+  330  git config --global user.name "leibor"
+  331  git config --global user.email "leibor@gmail.com"
+  332  git config --global --list
+  333  git config --global --help
+  334  git config --global --list
+  335  git config --global --unset usee.name
+  336  git config --global --list
+  337  git config --global --unset usee.email
+  338  git config --global --list
+  339  git status
+  340  git push
+  341  vim zzz.md 
+  342  vim zzz.md 
+  343  git status ; git add . ; git commit -m "zzz" ; git push ; git status
+  344  vim zzz.md 
+  345  git status ; git add . ; git commit -m "zzz" ; git push ; git status
+  346  vim zzz.md 
+  347  git status ; git add . ; git commit -m "zzz" ; git push ; git status
+  348  cat qqq 
+  349  git status --help
+  350  git status -v
+  351  git pull
+  352  ls -l
+  353  cat qqq.md 
+  354  git brance -h
+  355  git brance -a
+  356  git branch -a
+  357  git branch -r
+  358  git status
+  359  git checkout -b 'add-installtion'
+  360  git branch
+  361  git branch master
+  362  git checkout master
+  363  git branch master
+  364  git branch
+  365  git checkout add-installtion
+  366  git branch
+  367  ls -la .git
+  368  cat .git/HEAD 
+  369  git checkout master
+  370  cat .git/HEAD 
+  371  git branch
+  372  git checkout add-installtion
+  373  cat .git/HEAD 
+  374  git branch
+  375  cat .git/FETCH_HEAD 
+  376  cat .git/ORIG_HEAD 
+  377  echo $PS1
+  378  git branch 2>/dev/null | grep '^*'
+  379  git branch 2>/dev/null | grep '^*'| colrm 1 2
+  380  __git_ps1
+  381  PS1='\[\033[0;32m\]\[\033[0m\033[0;32m\]\u\[\033[0;36m\] @ \[\033[0;36m\]\h \w\[\033[0;32m\]$(__git_ps1)\n\[\033[0;32m\]└─\[\033[0m\033[0;32m\] \$\[\033[0m\033[0;32m\] ▶\[\033[0m\] '
+  382  exit
+  383  PS1='\[\033[0;32m\]\[\033[0m\033[0;32m\]\u\[\033[0;36m\] @ \w\[\033[0;32m\]\n$(git branch 2>/dev/null | grep "^*" | colrm 1 2)\[\033[0;32m\]└─\[\033[0m\033[0;32m\] \$\[\033[0m\033[0;32m\]\[\033[0m\] '
+  384  cd cp
+  385  cd code/
+  386  ls -l
+  387  cd gitfundamentals/
+  388  ls -l
+  389  git branch
+  390  git branc
+  391  git branch
+  392  git checkout master
+  393  cd
+  394  cd /var/tmp
+  395  ls -l
+  396  cd /opt/
+  397  ls -l
+  398  cd apache-spark/
+  399  ls -l
+  400  bash
+  401  exit
+  402  cd code/
+  403  ls -l
+  404  cd gitfundamentals/
+  405  ls -l
+  406  git branch
+  407  git checkout add-installtion
+  408  cd
+  409  exit
+  410  vim .bash_profile
+  411  vim .bashrc 
+  412  exit
+  413  git status
+  414  exit
+  415  exit
+  416  ls -l
+  417  cd
+  418  pwd
+  419  cd code/gitfundamentals/
+  420  git branch
+  421  git checkout add-installtion
+  422  cd
+  423  vim ~/.bashrc 
+  424  cd code/gitfundamentals/
+  425  bash
+  426  vim ~/.bashrc 
+  427  bash
+  428  vim ~/.bashrc 
+  429  bash
+  430  git branch
+  431  git checkout master
+  432  cd
+  433  vim ~/.bashrc 
+  434  bash
+  435  cd code/gitfundamentals/
+  436  vim .bashrc 
+  437  vim ~/.bashrc 
+  438  bash
+  439  cd
+  440  vim .bashrc
+  441  bash
+  442  vim .bashrc
+  443  exit
+  444  pwd
+  445  cd /opt/
+  446  ls -l
+  447  cd apache-spark/
+  448  ls -l
+  449  cd spark-2.4.0-bin-hadoop2.7/
+  450  ls-l
+  451  ls -l
+  452  cd python/
+  453  ls -l
+  454  cd ../bin/
+  455  ls
+  456  ./pyspark 
+  457  cd 
+  458  cd gi
+  459  cd code/
+  460  ls -l
+  461  cd gitfundamentals/
+  462  ls -l
+  463  git branch
+  464  vim ~/.bashrc 
+  465  vim ~/.bashrc 
+  466  bash
+  467  vim ~/.bashrc 
+  468  bash
+  469  pwd
+  470  cd code/gitfundamentals/
+  471  ls -l
+  472  bash
+  473  vim ~/.bashrc 
+  474  bash
+  475  cd code/gitfundamentals/
+  476  bash
+  477  vim ~/.bashrc 
+  478  cd code/gitfundamentals/
+  479  vim ~/.bashrc 
+  480  cd code/gitfundamentals/
+  481  echo $PS1
+  482  bash
+  483  vim ~/.bash_profile
+  484  vim ~/.bashrc 
+  485  git branch
+  486  git checkout master
+  487  bash
+  488  vim ~/.bashrc 
+  489  cd code/gitfundamentals/
+  490  ls -l
+  491  bash
+  492  cd code/gitfundamentals/
+  493  git branch
+  494  git checkout add-installtion
+  495  vim ~/.bashrc 
+  496  cd code/gitfundamentals/
+  497  git brach
+  498  git checkout master
+  499  git brach
+  500  git checkout add-installtion
+  501  git status
+  502  cat installation.txt 
+  503  git pull
+  504  ls -l
+  505  git branch
+  506  git chekcout master
+  507  git branch
+  508  git branch -h
+  509  git branch
+  510  git branch add-installtion
+  511  git checkout add-installtion
+  512  git branch -h
+  513  git branch -d
+  514  git branch -d add-installtion
+  515  git chekcout master
+  516  git branch -d add-installtion
+  517  git branch 
+  518  git branch 
+  519  ls -l
+  520  git pull
+  521  ls -l
+  522  cat installation.txt 
+  523  git branch
+  524  git status
+  525  git log
+  526  git log --oneline
+  527  git log --oneline|wc -l
+  528  git log --oneline
+  529  git log -h
+  530  man git
+  531  git
+  532  git-shell -h
+  533  git-shell 
+  534  git log -h
+  535  git log --help
+  536  git log --help
+  537  git log --graph
+  538  git log --online --graph
+  539  git log --oneline --graph
+  540  git log --oneline --graph
+  541  git log --graph
+  542  git log --help
+  543  git log --oneline --graph
+  544  git log --oneline --graph --merge
+  545  git log --oneline --graph --merges
+  546  git remote --verbose
+  547  git remote 
+  548  git remote -v
+  549  git tag
+  550  git tag -h
+  551  git tag -l
+  552  git tag stable master
+  553  git tag -l
+  554  cd ../
+  555  ls -l
+  556  cd jquery/ls
+  557  cd jquery/
+  558  ls -l
+  559  git branch
+  560  git tag
+  561  cd ..
+  562  ls -l
+  563  mkdir aa
+  564  cd aa/
+  565  git init
+  566  ls -la
+  567  git tag
+  568  cd ../gitfundamentals/
+  569  git tag
+  570  git tag -h
+  571  git tag
+  572  git tag -d v1.0_with_message
+  573  git tag -d v1.0_signed
+  574  git tag -d v1.0
+  575  git tag -d stable
+  576  git tag
+  577  git tage stable master
+  578  git tag
+  579  git tag stable master
+  580  git tag
+  581  git log --oneline --graph 
+  582  git log --oneline --graph --decorate -all
+  583  git log --oneline --graph --decorate --all
+  584  git tag -a v0.1 "0.1 release" d68e151
+  585  git tag -a v0.1 -m "0.1 release" d68e151
+  586  git tag
+  587  git tag -l
+  588  git tag -h
+  589  git log --oneline --graph --decorate --all
+  590  git tag -a v0.2 -m "0.2 release" 9fbf57c
+  591  git push
+  592  git push --tags
+  593  git tag
+  594  git tag -d stable
+  595  git tag -d v0.1
+  596  git tag -d stable
+  597  git tag
+  598  git push origin :v0.1
+  599  history  > a.a
